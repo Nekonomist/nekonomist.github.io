@@ -53,7 +53,7 @@ Tokyo, 100-8940 JAPAN
 ## Talks
 
 ### Conferences
-* [AEA](https://www.aeaweb.org/conference/2017/preliminary/1818?page=3&per-page=50), Jan 2017
+* [ASSA](https://www.aeaweb.org/conference/2017/preliminary/1818?page=3&per-page=50), Jan 2017
 * JEA, June 2016
 * JSS, March 2016
 * JEA, May 2015
