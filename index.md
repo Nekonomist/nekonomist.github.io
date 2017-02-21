@@ -54,17 +54,17 @@ Tokyo, 100-8940 JAPAN
 
 ## Talks
 ### Conferences
-* [JSS](http://www.jss.gr.jp/convention/spring11/), March 2017
+* [JSS](http://www.jss.gr.jp/convention/spring11/), Mar 2017
 * [ASSA](https://www.aeaweb.org/conference/2017/preliminary/1818?page=3&per-page=50), Jan 2017
 * JEA, June 2016
-* JSS, March 2016
+* JSS, Mar 2016
 * JEA, May 2015
-* JEA, October 2014
-* [International conference "Econometrics for Macroeconomics and Finance"](http://www.econ.hit-u.ac.jp/~koho/english/events/conference20140315-16_program.html), March 2014
+* JEA, Oct 2014
+* [International conference "Econometrics for Macroeconomics and Finance"](http://www.econ.hit-u.ac.jp/~koho/english/events/conference20140315-16_program.html), Mar 2014
 
 ### Others
-* [MOF](http://www.mof.go.jp/pri/research/conference/investment.htm), November 2016
-* [DSGE_WS](http://www.kengonutahara.com/dsge-workshop), July 2016
-* JCER, January 2016
-* Kyoto univ., January 2016
-* [SWET](http://www.int.otaru-uc.ac.jp/swet/past/swet2014/day6), August 2014
+* [MOF](http://www.mof.go.jp/pri/research/conference/investment.htm), Nov 2016
+* [DSGE_WS](http://www.kengonutahara.com/dsge-workshop), Jul 2016
+* JCER, Jan 2016
+* KyotoU, Jan 2016
+* [SWET](http://www.int.otaru-uc.ac.jp/swet/past/swet2014/day6), Aug 2014
