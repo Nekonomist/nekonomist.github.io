@@ -56,7 +56,7 @@ Tokyo, 100-8940 JAPAN
 ### Conferences
 * [JSS](http://www.jss.gr.jp/convention/spring11/), Mar 2017
 * [ASSA](https://www.aeaweb.org/conference/2017/preliminary/1818?page=3&per-page=50), Jan 2017
-* JEA, June 2016
+* JEA, Ju 2016
 * JSS, Mar 2016
 * JEA, May 2015
 * JEA, Oct 2014
