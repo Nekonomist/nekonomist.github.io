@@ -35,6 +35,9 @@ Tokyo, 100-8940 JAPAN
 * [Vim](https://en.wikipedia.org/wiki/Vim_(text_editor))
 
 ## Lecture
+* 神奈川大学『マクロ経済学』『ミクロ経済学』(2017)
+* 千葉大学『経済統計II』(2017)
+* 財務省 『基礎統計学』(2017)
 * 東京工業大学 『[経済学A](http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=7&KamokuCD=110100&KougiCD=201600867&Nendo=2016&lang=JA&vid=03)』(2016)
 * 千葉大学 『[経済統計II](https://moodle2.chiba-u.jp/moodle16/course/info.php?id=2123)』(2016)
 * 財務省 『基礎統計学』『統計基礎』『時系列演習』(2016)
@@ -50,7 +53,6 @@ Tokyo, 100-8940 JAPAN
 * Yamana, Kazufumi, [Estimation Method for Dynamic Equilibrium Models of Heterogeneous Firms](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2610451), SSRN Working Paper, 2015
 
 ## Talks
-
 ### Conferences
 * [JSS](http://www.jss.gr.jp/convention/spring11/), March 2017
 * [ASSA](https://www.aeaweb.org/conference/2017/preliminary/1818?page=3&per-page=50), Jan 2017
@@ -59,8 +61,8 @@ Tokyo, 100-8940 JAPAN
 * JEA, May 2015
 * JEA, October 2014
 * [International conference "Econometrics for Macroeconomics and Finance"](http://www.econ.hit-u.ac.jp/~koho/english/events/conference20140315-16_program.html), March 2014
-
 ### Others
+* [MOF](http://www.mof.go.jp/pri/research/conference/investment.htm), November 2016
 * [DSGE_WS](http://www.kengonutahara.com/dsge-workshop), July 2016
 * JCER, January 2016
 * Kyoto univ., January 2016
