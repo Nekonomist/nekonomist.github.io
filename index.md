@@ -61,6 +61,7 @@ Tokyo, 100-8940 JAPAN
 * JEA, May 2015
 * JEA, October 2014
 * [International conference "Econometrics for Macroeconomics and Finance"](http://www.econ.hit-u.ac.jp/~koho/english/events/conference20140315-16_program.html), March 2014
+
 ### Others
 * [MOF](http://www.mof.go.jp/pri/research/conference/investment.htm), November 2016
 * [DSGE_WS](http://www.kengonutahara.com/dsge-workshop), July 2016
