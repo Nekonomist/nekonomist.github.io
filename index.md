@@ -22,7 +22,7 @@ Tokyo, 100-8940 JAPAN
 * [Computational statistics](https://en.wikipedia.org/wiki/Computational_statistics)
   * [MCMC](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo)
   * [SMC](https://en.wikipedia.org/wiki/Particle_filter)
-  * [ABC](Approximate_Bayesian_computation)  
+  * [ABC](Approximate_Bayesian_computation) 
 * [Computational economics](https://en.wikipedia.org/wiki/Computational_economics)  
 * [Nekonomics](http://www.nzherald.co.nz/lifestyle/news/article.cfm?c_id=6&objectid=11579250)
 
@@ -44,7 +44,7 @@ Tokyo, 100-8940 JAPAN
 * 神奈川大学 『[経済情報処理I](http://ku-syllabus.kanagawa-u.ac.jp/syllabus/SyllabusAction.do?value(menu)=pub_view&value(syllabus_no)=20140001551022)』『[経済情報処理II](http://ku-syllabus.kanagawa-u.ac.jp/syllabus/SyllabusAction.do?value(menu)=pub_view&value(syllabus_no)=20140001551032)』(2014)
 
 ## Products
-I'm interested not in "paper engineering", but in "product engineering".
+I'm interested not in paper engineering, but in product engineering.
 * [SSRN Author Page](http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2139047)
 * Yamana, Kazufumi, [Structural Household Finance](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2824112), SSRN Working Paper, 2016.
   * Kazufumi Yamana, [Structural Household Finance](http://www.mof.go.jp/pri/research/discussion_paper/ron279.pdf), PRI Discussion Paper Series, No.16A-07, 2016
