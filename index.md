@@ -1,7 +1,7 @@
 # Kazufumi Yamana 
 (written as 山名一史 in Japanese) 
 
-Ph.D. Economics 2016  
+Ph.D. Economics 
 [HERMES-IR](http://doi.org/10.15057/28171)
 
 Economist  
