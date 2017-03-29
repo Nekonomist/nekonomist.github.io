@@ -63,7 +63,8 @@ I'm interested not in paper engineering, but in product engineering.
 * [International conference "Econometrics for Macroeconomics and Finance"](http://www.econ.hit-u.ac.jp/~koho/english/events/conference20140315-16_program.html), Mar 2014
 
 ### Others
-* [MOF](http://www.mof.go.jp/pri/research/conference/investment.htm), Nov 2016
+* [MOF](http://www.mof.go.jp/pri/research/conference/investment.htm), Nov 2016　　
+  * [report](http://www.mof.go.jp/pri/research/conference/00report/investment/inv_mokuji.htm), Mar 2017
 * [DSGE_WS](http://www.kengonutahara.com/dsge-workshop), Jul 2016
 * JCER, Jan 2016
 * KyotoU, Jan 2016
