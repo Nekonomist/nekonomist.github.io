@@ -4,6 +4,11 @@
 Ph.D. Economics  
 [HERMES-IR](http://doi.org/10.15057/28171)
 
+2017.4-
+Assistant professor  
+Kanagawa university, Department of Economics  
+
+2015.4-2017.3  
 Economist  
 [Policy Research Institute](http://www.mof.go.jp/english/pri/index.htm)  
 [Ministry of Finance](http://www.mof.go.jp/english/index.htm)  
@@ -14,7 +19,6 @@ Japanese Government
 Tokyo, 100-8940 JAPAN  
 
 ### E-mail
-* kazufumi.yamana **atmark** mof.go.jp
 * kz.yamana **atmark** gmail.com
 
 ## Research interests 
@@ -22,7 +26,7 @@ Tokyo, 100-8940 JAPAN
 * [Computational statistics](https://en.wikipedia.org/wiki/Computational_statistics)
   * [MCMC](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo)
   * [SMC](https://en.wikipedia.org/wiki/Particle_filter)
-  * [ABC](Approximate_Bayesian_computation) 
+  * [ABC](Approximate_Bayesian_computation)  
 * [Computational economics](https://en.wikipedia.org/wiki/Computational_economics)  
 * [Nekonomics](http://www.nzherald.co.nz/lifestyle/news/article.cfm?c_id=6&objectid=11579250)
 
@@ -64,7 +68,7 @@ I'm interested not in paper engineering, but in product engineering.
 
 ### Others
 * [MOF](http://www.mof.go.jp/pri/research/conference/investment.htm), Nov 2016　　
-  * [report](http://www.mof.go.jp/pri/research/conference/00report/investment/inv_mokuji.htm), Mar 2017
+  * [report](http://www.mof.go.jp/pri/research/conference/00report/investment/inv_mokuji.htm), Mar 2017  
 * [DSGE_WS](http://www.kengonutahara.com/dsge-workshop), Jul 2016
 * JCER, Jan 2016
 * KyotoU, Jan 2016
