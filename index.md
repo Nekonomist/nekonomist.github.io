@@ -4,7 +4,7 @@
 Ph.D. Economics  
 [HERMES-IR](http://doi.org/10.15057/28171)
 
-2017.4-
+2017.4-  
 Assistant professor  
 Kanagawa university, Department of Economics  
 
