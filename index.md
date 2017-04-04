@@ -6,10 +6,10 @@ Ph.D. Economics
 
 2017.4-  
 Assistant professor  
-Kanagawa university, Department of Economics  
+[Kanagawa University, Faculty of Economics](http://www.econ.kanagawa-u.ac.jp/index.html)  
 
-2015.4-2017.3  
-Economist  
+2015.4-2017.3  
+Economist  
 [Policy Research Institute](http://www.mof.go.jp/english/pri/index.htm)  
 [Ministry of Finance](http://www.mof.go.jp/english/index.htm)  
 Japanese Government 
