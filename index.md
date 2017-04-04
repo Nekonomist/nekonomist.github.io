@@ -12,7 +12,7 @@ Kanagawa university, Department of Economics
 Economist  
 [Policy Research Institute](http://www.mof.go.jp/english/pri/index.htm)  
 [Ministry of Finance](http://www.mof.go.jp/english/index.htm)  
-Japanese Government
+Japanese Government 
 
 ## Contact
 3-1-1 Kasumigaseki, Chiyoda-ku  
@@ -56,6 +56,10 @@ I'm interested not in paper engineering, but in product engineering.
   * Kazufumi Yamana, Makoto Nirei, Sanjib Sarker, Time-Varying Employment Risks, Consumption Composition, and Fiscal Policy, UTokyo Price Project Working Paper Series 53, 2014
 * Yamana, Kazufumi, [Estimation Method for Dynamic Equilibrium Models of Heterogeneous Firms](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2610451), SSRN Working Paper, 2015
 
+## Offshoots
+* [Report_2017_03](http://www.mof.go.jp/pri/research/conference/00report/investment/inv_mokuji.htm)    
+* [Finance_2016_02](https://www.mof.go.jp/pri/research/special_report/f01_2016_02.pdf)  
+
 ## Talks
 ### Conferences
 * [JSS](http://www.jss.gr.jp/convention/spring11/), Mar 2017
@@ -68,7 +72,6 @@ I'm interested not in paper engineering, but in product engineering.
 
 ### Others
 * [MOF](http://www.mof.go.jp/pri/research/conference/investment.htm), Nov 2016　　
-  * [report](http://www.mof.go.jp/pri/research/conference/00report/investment/inv_mokuji.htm), Mar 2017  
 * [DSGE_WS](http://www.kengonutahara.com/dsge-workshop), Jul 2016
 * JCER, Jan 2016
 * KyotoU, Jan 2016
