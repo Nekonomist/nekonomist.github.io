@@ -57,8 +57,9 @@ I'm interested not in paper engineering, but in product engineering.
 * Yamana, Kazufumi, [Estimation Method for Dynamic Equilibrium Models of Heterogeneous Firms](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2610451), SSRN Working Paper, 2015
 
 ## Offshoots
-* [Report_2017_03](http://www.mof.go.jp/pri/research/conference/00report/investment/inv_mokuji.htm)    
-* [Finance_2016_02](https://www.mof.go.jp/pri/research/special_report/f01_2016_02.pdf)  
+* Finance, forthcoming  
+* [Report](http://www.mof.go.jp/pri/research/conference/00report/investment/inv_mokuji.htm), Mar 2017    
+* [Finance](https://www.mof.go.jp/pri/research/special_report/f01_2016_02.pdf), Feb 2016  
 
 ## Talks
 ### Conferences
