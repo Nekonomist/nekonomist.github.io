@@ -26,7 +26,7 @@ Kanagawa, 221-8686 JAPAN
 * [Computational statistics](https://en.wikipedia.org/wiki/Computational_statistics)
   * [MCMC](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo)
   * [SMC](https://en.wikipedia.org/wiki/Particle_filter)
-  * [ABC](Approximate_Bayesian_computation)  
+  * [ABC](Approximate_Bayesian_computation)
 * [Computational economics](https://en.wikipedia.org/wiki/Computational_economics)  
 * [Nekonomics](http://www.nzherald.co.nz/lifestyle/news/article.cfm?c_id=6&objectid=11579250)
 
