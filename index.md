@@ -15,8 +15,8 @@ Economist  
 Japanese Government 
 
 ## Contact
-3-1-1 Kasumigaseki, Chiyoda-ku  
-Tokyo, 100-8940 JAPAN  
+3-27-1 Rokkakubashi, Kanagawa-ku, Yokohama-shi
+Kanagawa, 221-8686 JAPAN
 
 ### E-mail
 * kz.yamana **atmark** gmail.com
