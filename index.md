@@ -15,7 +15,7 @@ Economist  
 Japanese Government 
 
 ## Contact
-3-27-1 Rokkakubashi, Kanagawa-ku, Yokohama-shi
+3-27-1 Rokkakubashi, Kanagawa-ku, Yokohama-shi  
 Kanagawa, 221-8686 JAPAN
 
 ### E-mail
