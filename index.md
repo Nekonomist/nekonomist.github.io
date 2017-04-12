@@ -9,10 +9,9 @@ Assistant professor
 [Kanagawa University, Faculty of Economics](http://www.econ.kanagawa-u.ac.jp/index.html)  
 
 2015.4-2017.3  
-Economist  
+Economist  
 [Policy Research Institute](http://www.mof.go.jp/english/pri/index.htm)  
-[Ministry of Finance](http://www.mof.go.jp/english/index.htm)  
-Japanese Government 
+[Ministry of Finance](http://www.mof.go.jp/english/index.htm), Japanese Government 
 
 ## Contact
 3-27-1 Rokkakubashi, Kanagawa-ku, Yokohama-shi  
@@ -69,7 +68,7 @@ I'm interested not in paper engineering, but in product engineering.
 * JSS, Mar 2016
 * JEA, May 2015
 * JEA, Oct 2014
-* [International conference "Econometrics for Macroeconomics and Finance"](http://www.econ.hit-u.ac.jp/~koho/english/events/conference20140315-16_program.html), Mar 2014
+* [HitU](http://www.econ.hit-u.ac.jp/~koho/english/events/conference20140315-16_program.html), Mar 2014
 
 ### Others
 * [MOF](http://www.mof.go.jp/pri/research/conference/investment.htm), Nov 2016　　
