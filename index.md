@@ -6,7 +6,10 @@ Ph.D. Economics
 
 2017.4-  
 Assistant professor  
-[Kanagawa University, Faculty of Economics](http://www.econ.kanagawa-u.ac.jp/index.html)  
+[Kanagawa University, Faculty of Economics](http://www.econ.kanagawa-u.ac.jp/index.html)   
+
+Visiting researcher  
+Policy Research Institute, Ministry of Finance, Japanese Government
 
 2015.4-2017.3  
 Economist  
@@ -39,7 +42,7 @@ Kanagawa, 221-8686 JAPAN
 ## Lecture
 * 神奈川大学『マクロ経済学』『ミクロ経済学』(2017)
 * 千葉大学『経済統計II』(2017)
-* 財務省 『基礎統計学』(2017)
+* 財務省 『基礎統計学』『時系列演習』(2017)
 * 東京工業大学 『[経済学A](http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=7&KamokuCD=110100&KougiCD=201600867&Nendo=2016&lang=JA&vid=03)』(2016)
 * 千葉大学 『[経済統計II](https://moodle2.chiba-u.jp/moodle16/course/info.php?id=2123)』(2016)
 * 財務省 『基礎統計学』『統計基礎』『時系列演習』(2016)
