@@ -65,6 +65,8 @@ I'm interested not in paper engineering, but in product engineering. Of course, 
 
 ## Talks
 ### Conferences
+* CAED, Sep 2017  
+* [KLEMS](https://hias.hit-u.ac.jp/indico/event/0/other-view?view=standard), July 2017  
 * [JSS](http://www.jss.gr.jp/convention/spring11/), Mar 2017
 * [ASSA](https://www.aeaweb.org/conference/2017/preliminary/1818?page=3&per-page=50), Jan 2017
 * JEA, Ju 2016
