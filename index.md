@@ -38,6 +38,7 @@ Kanagawa, 221-8686 JAPAN
 
 ## Editor
 * [Vim](https://en.wikipedia.org/wiki/Vim_(text_editor))
+  * See [Editor war](https://en.wikipedia.org/wiki/Editor_war)  
 
 ## Lecture
 * 神奈川大学『マクロ経済学』『ミクロ経済学』(2017)
