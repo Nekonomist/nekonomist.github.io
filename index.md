@@ -59,9 +59,9 @@ I'm interested not in paper engineering, but in product engineering. Of course, 
 * Yamana, Kazufumi, [Estimation Method for Dynamic Equilibrium Models of Heterogeneous Firms](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2610451), SSRN Working Paper, 2015
 
 ## Offshoots
-* About "Evidence-based policy-making (EBP(M))", Finance (Japanese), forthcoming  
-* [About "Sharing economy"](http://www.mof.go.jp/pri/research/conference/00report/investment/inv_mokuji.htm), Report (Japanese), Mar 2017    
-* [About "Consumption-based capital asset pricing model (CCAPM)"](https://www.mof.go.jp/pri/research/special_report/f01_2016_02.pdf), Finance (Japanese),  Feb 2016  
+* About "エビデンスに基づく政策形成 (EBP(M))", Finance (Japanese), forthcoming  
+* [About "シェアリングエコノミー"](http://www.mof.go.jp/pri/research/conference/00report/investment/inv_mokuji.htm), Report (Japanese), Mar 2017    
+* [About "資産価格モデル"](https://www.mof.go.jp/pri/research/special_report/f01_2016_02.pdf), Finance (Japanese),  Feb 2016  
 
 ## Talks
 ### Conferences
