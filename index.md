@@ -50,7 +50,7 @@ Kanagawa, 221-8686 JAPAN
 * 神奈川大学 『[経済情報処理I](http://ku-syllabus.kanagawa-u.ac.jp/syllabus/SyllabusAction.do?value(menu)=pub_view&value(syllabus_no)=20140001551022)』『[経済情報処理II](http://ku-syllabus.kanagawa-u.ac.jp/syllabus/SyllabusAction.do?value(menu)=pub_view&value(syllabus_no)=20140001551032)』(2014)
 
 ## Products
-I'm interested not in paper engineering, but in product engineering. Of course, it’s easier to copy/update/upgrade sth (paper engineering) than to make sth new (product engineering). "Doing what we already know how to do takes the world from 1 to n, adding more of something familiar. But every time we create something new, we go from 0 to 1.", quoted from Peter Thiel.
+I'm interested not in paper engineering, but in product engineering. Of course, it’s easier to emulate/extend sth (paper engineering) than to make sth new (product engineering). "Doing what we already know how to do takes the world from 1 to n, adding more of something familiar. But every time we create something new, we go from 0 to 1.", quoted from Peter Thiel.
 * [SSRN Author Page](http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2139047)
 * Yamana, Kazufumi, [Structural Household Finance](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2824112), SSRN Working Paper, 2016.
   * Kazufumi Yamana, [Structural Household Finance](http://www.mof.go.jp/pri/research/discussion_paper/ron279.pdf), PRI Discussion Paper Series, No.16A-07, 2016
@@ -65,8 +65,8 @@ I'm interested not in paper engineering, but in product engineering. Of course, 
 
 ## Talks
 ### Conferences
-* CAED, Sep 2017  
-* JEA, Sep 2017  
+* [CAED](https://editorialexpress.com/conference/CAED2017/program/CAED2017.html), Sep 2017  
+* [JEA](http://www.jeameetings.org/2017f/index.html), Sep 2017  
 * [KLEMS](https://hias.hit-u.ac.jp/indico/event/0/other-view?view=standard), July 2017  
 * [JSS](http://www.jss.gr.jp/convention/spring11/), Mar 2017
 * [ASSA](https://www.aeaweb.org/conference/2017/preliminary/1818?page=3&per-page=50), Jan 2017
