@@ -13,8 +13,7 @@ Policy Research Institute, Ministry of Finance, Japanese Government
 
 2015.4-2017.3  
 Economist  
-[Policy Research Institute](http://www.mof.go.jp/english/pri/index.htm)  
-[Ministry of Finance](http://www.mof.go.jp/english/index.htm), Japanese Government 
+Policy Research Institute, Ministry of Finance, Japanese Government 
 
 ## Contact
 3-27-1 Rokkakubashi, Kanagawa-ku, Yokohama-shi  
@@ -71,7 +70,7 @@ I'm interested not in paper engineering, but in product engineering. Of course, 
 * [KLEMS](https://hias.hit-u.ac.jp/indico/event/0/other-view?view=standard), July 2017  
 * [JSS](http://www.jss.gr.jp/convention/spring11/), Mar 2017
 * [ASSA](https://www.aeaweb.org/conference/2017/preliminary/1818?page=3&per-page=50), Jan 2017
-* JEA, Ju 2016
+* JEA, Jun 2016
 * JSS, Mar 2016
 * JEA, May 2015
 * JEA, Oct 2014
