@@ -11,7 +11,7 @@ Assistant professor
 Visiting researcher  
 Policy Research Institute, Ministry of Finance, Japanese Government
 
-2015.4-2017.3  
+2015.4-2017.3  
 Economist  
 Policy Research Institute, Ministry of Finance, Japanese Government 
 
