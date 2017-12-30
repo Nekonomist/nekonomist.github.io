@@ -41,12 +41,13 @@ Kanagawa, 221-8686 JAPAN
   * See [Editor war](https://en.wikipedia.org/wiki/Editor_war)  
 
 ## Lecture
+* 財務省『統計学基礎』『計量経済学演習』(2018)
 * 神奈川大学『マクロ経済学』『ミクロ経済学』(2017)
 * 千葉大学『経済統計II』(2017)
 * 財務省 『基礎統計学』『時系列演習』(2017)
 * 東京工業大学 『[経済学A](http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=7&KamokuCD=110100&KougiCD=201600867&Nendo=2016&lang=JA&vid=03)』(2016)
 * 千葉大学 『[経済統計II](https://moodle2.chiba-u.jp/moodle16/course/info.php?id=2123)』(2016)
-* 財務省 『基礎統計学』『統計基礎』『時系列演習』(2016)
+* 財務省 『統計学基礎』『統計基礎』『時系列演習』(2016)
 * 財務省 『時系列演習』(2015)
 * 神奈川大学 『[経済情報処理I](http://ku-syllabus.kanagawa-u.ac.jp/syllabus/SyllabusAction.do?value(menu)=pub_view&value(syllabus_no)=20140001551022)』『[経済情報処理II](http://ku-syllabus.kanagawa-u.ac.jp/syllabus/SyllabusAction.do?value(menu)=pub_view&value(syllabus_no)=20140001551032)』(2014)
 
@@ -60,12 +61,14 @@ I'm interested not in paper engineering, but in product engineering. Of course, 
 * Yamana, Kazufumi, [Estimation Method for Dynamic Equilibrium Models of Heterogeneous Firms](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2610451), SSRN Working Paper, 2015
 
 ## Offshoots
+* About Airbnb in Japan, Keizai boeki kenkyu/The Studies in economics and trade (Japanese), Mar 2018
 * About ["エビデンスに基づく政策形成 (EBP(M))"](http://www.mof.go.jp/pri/research/special_report/f01_2017_08.pdf), Finance (Japanese), Aug 2017 
 * About ["シェアリングエコノミー"](http://www.mof.go.jp/pri/research/conference/00report/investment/inv_mokuji.htm), Report (Japanese), Mar 2017    
 * About ["資産価格モデル"](https://www.mof.go.jp/pri/research/special_report/f01_2016_02.pdf), Finance (Japanese),  Feb 2016  
 
 ## Talks
 ### Conferences
+* [IARIW](http://www.iariw.org/), Aug 2018
 * [CAED](https://editorialexpress.com/conference/CAED2017/program/CAED2017.html), Sep 2017  
 * [JEA](http://www.jeameetings.org/2017f/index.html), Sep 2017  
 * [KLEMS](https://hias.hit-u.ac.jp/indico/event/0/other-view?view=standard), July 2017  
