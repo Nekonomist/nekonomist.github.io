@@ -54,7 +54,8 @@ Kanagawa, 221-8686 JAPAN
 ## Products
 I'm interested not in paper engineering, but in product engineering. Of course, it’s easier to emulate/extend sth (paper engineering) than to make sth new (product engineering). "Doing what we already know how to do takes the world from 1 to n, adding more of something familiar. But every time we create something new, we go from 0 to 1.", quoted from Peter Thiel.
 * [SSRN Author Page](http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2139047)
-* Yamana, Kazufumi, [Structural Household Finance](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2824112), SSRN Working Paper, 2016 (updated @2018/1).
+* Yamana, Kazufumi, [Structural Household Finance](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2824112), SSRN Working Paper, 2018.
+  * Yamana, Kazufumi, [Structural Household Finance](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2824112), SSRN Working Paper, 2016.
   * Kazufumi Yamana, [Structural Household Finance](http://www.mof.go.jp/pri/research/discussion_paper/ron279.pdf), PRI Discussion Paper Series, No.16A-07, 2016
 * Kazufumi Yamana and Makoto Nirei and Sanjib Sarker, (2016) [Time-Varying Employment Risks, Consumption Composition, and Fiscal Policy](http://www.accessecon.com/Pubs/EB/2016/Volume36/EB-16-V36-I2-P79.pdf), Economics Bulletin, Vol. 36 No. 2 p.802-812
   * Kazufumi Yamana, Makoto Nirei, Sanjib Sarker, Time-Varying Employment Risks, Consumption Composition, and Fiscal Policy, UTokyo Price Project Working Paper Series 53, 2014
