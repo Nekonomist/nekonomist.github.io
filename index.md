@@ -63,6 +63,7 @@ I'm interested not in paper engineering, but in product engineering. Of course, 
 * Yamana, Kazufumi, [Estimation Method for Dynamic Equilibrium Models of Heterogeneous Firms](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2610451), SSRN Working Paper, 2015
 
 ## Offshoots
+We should care "the disctinction btw understanding the "effects of causes" (the goal of the treatment effect literature as a large group of statisticians define it) and understanding the "causes of effects" (the goal of the econometric literature building explicit models)", Holland1986/Heckman2008.
 * About Airbnb in Japan, Keizai boeki kenkyu/The Studies in economics and trade (Japanese), Mar 2018
 * About ["エビデンスに基づく政策形成 (EBP(M))"](http://www.mof.go.jp/pri/research/special_report/f01_2017_08.pdf), Finance (Japanese), Aug 2017 
 * About ["シェアリングエコノミー"](http://www.mof.go.jp/pri/research/conference/00report/investment/inv_mokuji.htm), Report (Japanese), Mar 2017    
