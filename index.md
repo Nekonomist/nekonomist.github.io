@@ -28,10 +28,7 @@ Kanagawa, 221-8686 JAPAN
 
 ## Research interests 
 * [Macroeconomics](https://en.wikipedia.org/wiki/Macroeconomics)
-* [Computational statistics](https://en.wikipedia.org/wiki/Computational_statistics)
-  * [MCMC](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo)
-  * [SMC](https://en.wikipedia.org/wiki/Particle_filter)
-  * [ABC](Approximate_Bayesian_computation)
+* [Computational statistics](/https://en.wikipedia.org/wiki/Computational_statistics)/[Machine learning](https://en.wikipedia.org/wiki/Machine_learning)
 * [Computational economics](https://en.wikipedia.org/wiki/Computational_economics)  
 * [Nekonomics](http://www.nzherald.co.nz/lifestyle/news/article.cfm?c_id=6&objectid=11579250)
 
@@ -72,22 +69,29 @@ We should care "the disctinction btw understanding the "effects of causes" (the 
 
 ## Talks
 ### Conferences
-* [IISES](http://www.iises.net/current-conferences/economic/10th-economics-finance-conference-rome), Sep 2018
-* [IARIW](http://www.iariw.org/), Aug 2018
-* [CAED](https://editorialexpress.com/conference/CAED2017/program/CAED2017.html), Sep 2017  
-* [JEA](http://www.jeameetings.org/2017f/index.html), Sep 2017  
-* [KLEMS](https://hias.hit-u.ac.jp/indico/event/0/other-view?view=standard), July 2017  
-* [JSS](http://www.jss.gr.jp/convention/spring11/), Mar 2017
-* [ASSA](https://www.aeaweb.org/conference/2017/preliminary/1818?page=3&per-page=50), Jan 2017
-* JEA, Jun 2016
-* JSS, Mar 2016
-* JEA, May 2015
-* JEA, Oct 2014
-* [HitU](http://www.econ.hit-u.ac.jp/~koho/english/events/conference20140315-16_program.html), Mar 2014
+* 2018
+  * [IISES](http://www.iises.net/current-conferences/economic/10th-economics-finance-conference-rome), Sep
+  * [IARIW](http://www.iariw.org/), Aug
+* 2017
+  * [CAED](https://editorialexpress.com/conference/CAED2017/program/CAED2017.html), Sep  
+  * [JEA](http://www.jeameetings.org/2017f/index.html), Sep
+  * [KLEMS](https://hias.hit-u.ac.jp/indico/event/0/other-view?view=standard), July
+  * [JSS](http://www.jss.gr.jp/convention/spring11/), Mar
+  * [ASSA](https://www.aeaweb.org/conference/2017/preliminary/1818?page=3&per-page=50), Jan
+* 2016
+  * JEA, Jun
+  * JSS, Mar
+* 2015
+  * JEA, May
+* 2014
+  * JEA, Oct
+  * [HitU](http://www.econ.hit-u.ac.jp/~koho/english/events/conference20140315-16_program.html), Mar
 
 ### Others
-* [MOF](http://www.mof.go.jp/pri/research/conference/investment.htm), Nov 2016　　
-* [DSGE_WS](http://www.kengonutahara.com/dsge-workshop), Jul 2016
-* JCER, Jan 2016
-* KyotoU, Jan 2016
-* [SWET](http://www.int.otaru-uc.ac.jp/swet/past/swet2014/day6), Aug 2014
+* 2016
+  * [MOF](http://www.mof.go.jp/pri/research/conference/investment.htm), Nov
+  * [DSGE_WS](http://www.kengonutahara.com/dsge-workshop), Jul
+  * JCER, Jan
+  * KyotoU, Jan
+* 2014
+  * [SWET](http://www.int.otaru-uc.ac.jp/swet/past/swet2014/day6), Aug
