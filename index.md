@@ -5,18 +5,17 @@ Ph.D. Economics
 [HERMES-IR](http://doi.org/10.15057/28171)
 
 ## Social service activities
-2017.4-  
-
+2017.4-   
 Assistant professor  
 Kanagawa University, Faculty of Economics  
+[神大の先生](http://professor.kanagawa-u.ac.jp/econ/economics/prof37.html)  
 [神奈川大学研究者情報](http://kenkyu.kanagawa-u.ac.jp/kuhp/KgApp?kyoinId=ymbsyygmggg)  
 
-Visiting researcher  
+Visiting researcher   
 Policy Research Institute, Ministry of Finance, Japanese Government
 
-2015.4-2017.3 
-
-Economist  
+2015.4-2017.3  
+Economist   
 Policy Research Institute, Ministry of Finance, Japanese Government 
 
 ## Contact
