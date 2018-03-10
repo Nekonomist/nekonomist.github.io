@@ -51,7 +51,6 @@ Kanagawa, 221-8686 JAPAN
 * 神奈川大学 『[経済情報処理I](http://ku-syllabus.kanagawa-u.ac.jp/syllabus/SyllabusAction.do?value(menu)=pub_view&value(syllabus_no)=20140001551022)』『[経済情報処理II](http://ku-syllabus.kanagawa-u.ac.jp/syllabus/SyllabusAction.do?value(menu)=pub_view&value(syllabus_no)=20140001551032)』(2014)
 
 ## Products
-I'm interested not in paper engineering, but in product engineering. Of course, it’s easier to emulate/extend sth (paper engineering) than to make sth new (product engineering). "Doing what we already know how to do takes the world from 1 to n, adding more of something familiar. But every time we create something new, we go from 0 to 1.", quoted from Peter Thiel.
 * [SSRN Author Page](http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2139047)
 * Yamana, Kazufumi, [Structural Household Finance](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2824112), SSRN Working Paper, 2018.
   * Kazufumi Yamana, [Structural Household Finance](http://www.mof.go.jp/pri/research/discussion_paper/ron279.pdf), PRI Discussion Paper Series, No.16A-07, 2016
@@ -60,7 +59,6 @@ I'm interested not in paper engineering, but in product engineering. Of course, 
 * Yamana, Kazufumi, [Estimation Method for Dynamic Equilibrium Models of Heterogeneous Firms](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2610451), SSRN Working Paper, 2015
 
 ## Offshoots
-We should care "the disctinction btw understanding the "effects of causes" (the goal of the treatment effect literature as a large group of statisticians define it) and understanding the "causes of effects" (the goal of the econometric literature building explicit models)", Holland1986/Heckman2008.
 * About Airbnb in Japan, Keizai boeki kenkyu/The Studies in economics and trade (Japanese), Mar 2018
 * About ["エビデンスに基づく政策形成 (EBP(M))"](http://www.mof.go.jp/pri/research/special_report/f01_2017_08.pdf), Finance (Japanese), Aug 2017 
 * About ["シェアリングエコノミー"](http://www.mof.go.jp/pri/research/conference/00report/investment/inv_mokuji.htm), Report (Japanese), Mar 2017    
@@ -69,28 +67,18 @@ We should care "the disctinction btw understanding the "effects of causes" (the 
 ## Talks
 ### Conferences
 * 2018
-  * [IISES](http://www.iises.net/current-conferences/economic/10th-economics-finance-conference-rome), Sep
-  * [IARIW](http://www.iariw.org/), Aug
+  * [IISES](http://www.iises.net/current-conferences/economic/10th-economics-finance-conference-rome) (Sep), [IARIW](http://www.iariw.org/) (Aug)
 * 2017
-  * [CAED](https://editorialexpress.com/conference/CAED2017/program/CAED2017.html), Sep  
-  * [JEA](http://www.jeameetings.org/2017f/index.html), Sep
-  * [KLEMS](https://hias.hit-u.ac.jp/indico/event/0/other-view?view=standard), July
-  * [JSS](http://www.jss.gr.jp/convention/spring11/), Mar
-  * [ASSA](https://www.aeaweb.org/conference/2017/preliminary/1818?page=3&per-page=50), Jan
+  * [CAED](https://editorialexpress.com/conference/CAED2017/program/CAED2017.html) (Sep), [JEA](http://www.jeameetings.org/2017f/index.html) (Sep), [KLEMS](https://hias.hit-u.ac.jp/indico/event/0/other-view?view=standard) (July), [JSS](http://www.jss.gr.jp/convention/spring11/) (Mar), [ASSA](https://www.aeaweb.org/conference/2017/preliminary/1818?page=3&per-page=50) (Jan)
 * 2016
-  * JEA, Jun
-  * JSS, Mar
+  * JEA (Jun), JSS (Mar)
 * 2015
-  * JEA, May
+  * JEA (May)
 * 2014
-  * JEA, Oct
-  * [HitU](http://www.econ.hit-u.ac.jp/~koho/english/events/conference20140315-16_program.html), Mar
+  * JEA (Oct), [HitU](http://www.econ.hit-u.ac.jp/~koho/english/events/conference20140315-16_program.html) (Mar)
 
 ### Others
 * 2016
-  * [MOF](http://www.mof.go.jp/pri/research/conference/investment.htm), Nov
-  * [DSGE_WS](http://www.kengonutahara.com/dsge-workshop), Jul
-  * JCER, Jan
-  * KyotoU, Jan
+  * [MOF](http://www.mof.go.jp/pri/research/conference/investment.htm) (Nov), [DSGE_WS](http://www.kengonutahara.com/dsge-workshop) (Jul), JCER (Jan), KyotoU (Jan)
 * 2014
   * [SWET](http://www.int.otaru-uc.ac.jp/swet/past/swet2014/day6), Aug
