@@ -71,7 +71,7 @@ Kanagawa, 221-8686 JAPAN
 * 2017
   * [CAED](https://editorialexpress.com/conference/CAED2017/program/CAED2017.html) (Sep), [JEA](http://www.jeameetings.org/2017f/index.html) (Sep), [KLEMS](https://hias.hit-u.ac.jp/indico/event/0/other-view?view=standard) (July), [JSS](http://www.jss.gr.jp/convention/spring11/) (Mar), [ASSA](https://www.aeaweb.org/conference/2017/preliminary/1818?page=3&per-page=50) (Jan)
 * 2016
-  * JEA (Jun), JSS (Mar)
+  * JEA (Jun), JSS (Mar)
 * 2015
   * JEA (May)
 * 2014
