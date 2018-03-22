@@ -41,11 +41,10 @@ Kanagawa, 221-8686 JAPAN
 
 ## Lecture
 * 財務省『統計学基礎』『計量経済学演習』(2018)
-* 神奈川大学『マクロ経済学』『ミクロ経済学』(2017)
-* 千葉大学『経済統計II』(2017)
+* 神奈川大学『マクロ経済学』『ミクロ経済学』(2017, 2018)
 * 財務省 『統計学基礎』『時系列演習』(2017)
 * 東京工業大学 『[経済学A](http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=7&KamokuCD=110100&KougiCD=201600867&Nendo=2016&lang=JA&vid=03)』(2016)
-* 千葉大学 『[経済統計II](https://moodle2.chiba-u.jp/moodle16/course/info.php?id=2123)』(2016)
+* 千葉大学 『[経済統計II](https://moodle2.chiba-u.jp/moodle16/course/info.php?id=2123)』(2016, 2017)
 * 財務省 『統計学基礎』『統計基礎』『時系列演習』(2016)
 * 財務省 『時系列演習』(2015)
 * 神奈川大学 『[経済情報処理I](http://ku-syllabus.kanagawa-u.ac.jp/syllabus/SyllabusAction.do?value(menu)=pub_view&value(syllabus_no)=20140001551022)』『[経済情報処理II](http://ku-syllabus.kanagawa-u.ac.jp/syllabus/SyllabusAction.do?value(menu)=pub_view&value(syllabus_no)=20140001551032)』(2014)
