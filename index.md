@@ -53,7 +53,7 @@ Kanagawa, 221-8686 JAPAN
 * [SSRN Author Page](http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2139047)　
 * Shuhei Aoki, Makoto Nirei, Kazufumi Yamana, [Risk-Taking, Inequality and Output in
 the Long-Run](http://www.boj.or.jp/en/research/wps_rev/wps_2018/data/wp18e04.pdf), BOJ Working Paper Series, No.18-E4, 2018
-* Yamana, Kazufumi, [Structural Household Finance](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2824112), SSRN Working Paper, 2016 (1st), 2017 (2nd), 2018 (3rd).
+* Yamana, Kazufumi, [Structural Household Finance](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2824112), SSRN Working Paper, 2016 (1st), 2018 (2nd).
   * Kazufumi Yamana, [Structural Household Finance](http://www.mof.go.jp/pri/research/discussion_paper/ron279.pdf), PRI Discussion Paper Series, No.16A-07, 2016
 * Kazufumi Yamana and Makoto Nirei and Sanjib Sarker, (2016) [Time-Varying Employment Risks, Consumption Composition, and Fiscal Policy](http://www.accessecon.com/Pubs/EB/2016/Volume36/EB-16-V36-I2-P79.pdf), Economics Bulletin, Vol. 36 No. 2 p.802-812
   * Kazufumi Yamana, Makoto Nirei, Sanjib Sarker, Time-Varying Employment Risks, Consumption Composition, and Fiscal Policy, UTokyo Price Project Working Paper Series 53, 2014
