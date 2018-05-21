@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Nyanyanya!</title>
+    <link>http://nekonomist.github.io/projects/</link>
+    <description>Recent content in Projects on Nyanyanya!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 13 Nov 2017 12:21:21 -0500</lastBuildDate>
+    
+	<atom:link href="http://nekonomist.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Products</title>
+      <link>http://nekonomist.github.io/projects/products/</link>
+      <pubDate>Mon, 13 Nov 2017 12:21:21 -0500</pubDate>
+      
+      <guid>http://nekonomist.github.io/projects/products/</guid>
+      <description>SSRN Author Page
+ Shuhei Aoki, Makoto Nirei, Kazufumi Yamana, Risk-Taking, Inequality and Output in the Long-Run, BOJ Working Paper Series, No.18-E4, 2018  Japanese summary  Yamana, Kazufumi, Structural Household Finance, SSRN Working Paper, 2018  Kazufumi Yamana, Structural Household Finance, PRI Discussion Paper Series, No.16A-07, 2016  Kazufumi Yamana and Makoto Nirei and Sanjib Sarker, Time-Varying Employment Risks, Consumption Composition, and Fiscal Policy, Economics Bulletin, Vol. 36 No. 2 p.</description>
+    </item>
+    
+    <item>
+      <title>Offshoots</title>
+      <link>http://nekonomist.github.io/projects/offshoots/</link>
+      <pubDate>Mon, 13 Nov 2017 12:21:16 -0500</pubDate>
+      
+      <guid>http://nekonomist.github.io/projects/offshoots/</guid>
+      <description> Yamana, Kazufumi. et al., Airbnb in Japan, The studies in economics and trade (Japanese), Mar 2018 Yamana, Kazufumi, What is the Evidence-Based Policy Making?, Finance (Japanese), Aug 2017 Kazufumi Yamana and Makoto Nirei, A quantitative study on the sharing economy, Bulletin report(Japanese), Mar 2017  Summary (Japanese) Workshop  Yamana, Kazufumi, Recent trends: Asset pricing, Finance(Japanese), Feb 2016  </description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>http://nekonomist.github.io/projects/talks/</link>
+      <pubDate>Mon, 13 Nov 2017 12:21:11 -0500</pubDate>
+      
+      <guid>http://nekonomist.github.io/projects/talks/</guid>
+      <description>Conferences 2018 IISES (Sep), IARIW (Aug)
+2017 CAED (Sep), JEA (Sep), KLEMS (July), JSS (Mar), ASSA (Jan)
+2016 JEA (Jun), JSS (Mar)
+2015 JEA (May)
+2014 JEA (Oct), HitU (Mar)
+Others 2016 MOF (Nov), DSGEWS (Jul), JCER (Jan), KyotoU (Jan)
+2014 SWET (Aug)</description>
+    </item>
+    
+  </channel>
+</rss>
