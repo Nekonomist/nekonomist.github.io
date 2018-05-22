@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statistics on Nyanyanya!</title>
+    <link>http://nekonomist.github.io/tags/statistics/</link>
+    <description>Recent content in Statistics on Nyanyanya!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 01 Nov 2017 12:04:16 -0500</lastBuildDate>
+    
+	<atom:link href="http://nekonomist.github.io/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>test</title>
+      <link>http://nekonomist.github.io/lecture/test/</link>
+      <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
+      
+      <guid>http://nekonomist.github.io/lecture/test/</guid>
+      <description>test page</description>
+    </item>
+    
+  </channel>
+</rss>
