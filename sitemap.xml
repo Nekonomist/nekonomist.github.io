@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>http://nekonomist.github.io/blog/missing-productivity-growth/</loc>
+    <lastmod>2018-05-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://nekonomist.github.io/lecture/test/</loc>
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
   </url>
@@ -33,7 +38,19 @@
   </url>
   
   <url>
+    <loc>http://nekonomist.github.io/blog/</loc>
+    <lastmod>2018-05-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://nekonomist.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://nekonomist.github.io/tags/growth/</loc>
+    <lastmod>2018-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -56,6 +73,12 @@
   </url>
   
   <url>
+    <loc>http://nekonomist.github.io/tags/productivity/</loc>
+    <lastmod>2018-05-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://nekonomist.github.io/projects/</loc>
     <lastmod>2017-11-13T12:21:21-05:00</lastmod>
     <priority>0</priority>
@@ -69,7 +92,7 @@
   
   <url>
     <loc>http://nekonomist.github.io/tags/</loc>
-    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
+    <lastmod>2018-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

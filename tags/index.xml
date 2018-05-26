@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Nyanyanya!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 01 Nov 2017 12:04:16 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 26 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://nekonomist.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Growth</title>
+      <link>http://nekonomist.github.io/tags/growth/</link>
+      <pubDate>Sat, 26 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://nekonomist.github.io/tags/growth/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Macroeconomics</title>
@@ -17,6 +26,15 @@
       <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
       
       <guid>http://nekonomist.github.io/tags/macroeconomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Productivity</title>
+      <link>http://nekonomist.github.io/tags/productivity/</link>
+      <pubDate>Sat, 26 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://nekonomist.github.io/tags/productivity/</guid>
       <description></description>
     </item>
     
