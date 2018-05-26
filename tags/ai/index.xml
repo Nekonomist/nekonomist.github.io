@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ai on Nyanyanya!</title>
+    <link>http://nekonomist.github.io/tags/ai/</link>
+    <description>Recent content in Ai on Nyanyanya!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Fri, 25 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://nekonomist.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Robots and Aritificial Intelligence</title>
+      <link>http://nekonomist.github.io/blog/robots-ai/</link>
+      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://nekonomist.github.io/blog/robots-ai/</guid>
+      <description>IGM FORUM 1 IGM FORUM 2 Daron Acemoglu &amp;amp; Pascual Restrepo, 2017. &amp;ldquo;Robots and Jobs: Evidence from US Labor Markets,&amp;rdquo; NBER Working Papers 23285, National Bureau of Economic Research, Inc. Aghion, Philippe and Howitt, Peter, 1994, Growth and Unemployment, Review of Economic Studies, 61, issue 3, p. 477-494. Joseph Zeira, 1998. &amp;ldquo;Workers, Machines, and Economic Growth,&amp;rdquo; The Quarterly Journal of Economics, Oxford University Press, vol. 113(4), pages 1091-1117. David H.</description>
+    </item>
+    
+  </channel>
+</rss>
