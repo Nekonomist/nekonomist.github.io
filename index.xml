@@ -1,102 +1,79 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nyanyanya!</title>
+    <title>Nyanyanya</title>
     <link>http://nekonomist.github.io/</link>
-    <description>Recent content on Nyanyanya!</description>
+    <description>Recent content on Nyanyanya</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <lastBuildDate>Mon, 13 Nov 2017 12:21:21 -0500</lastBuildDate>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2017 22:42:51 -0500</lastBuildDate>
     
 	<atom:link href="http://nekonomist.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Products</title>
-      <link>http://nekonomist.github.io/projects/products/</link>
-      <pubDate>Mon, 13 Nov 2017 12:21:21 -0500</pubDate>
+      <title>Aliquam</title>
+      <link>http://nekonomist.github.io/blogs/aliquam/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       
-      <guid>http://nekonomist.github.io/projects/products/</guid>
-      <description>SSRN IDEAS/PePEc Google Scholar
- Wendy Li, Makoto Nirei, Kazufumi Yamana, Creative Destruction in Organizational Capital: Evidence from the Online Platform Economy in Japan and the United States
- Wendy Li, Makoto Nirei, Kazufumi Yamana, Value of Data: There&amp;rsquo;s No Such Thing As A Free Lunch in the Digital Economy
- Shuhei Aoki, Makoto Nirei, Kazufumi Yamana, Risk-Taking, Inequality and Output in the Long-Run, BOJ Working Paper Series, No.18-E4, 2018</description>
+      <guid>http://nekonomist.github.io/blogs/aliquam/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Offshoots</title>
-      <link>http://nekonomist.github.io/projects/offshoots/</link>
-      <pubDate>Mon, 13 Nov 2017 12:21:16 -0500</pubDate>
+      <title>Tempus</title>
+      <link>http://nekonomist.github.io/blogs/tempus/</link>
+      <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
       
-      <guid>http://nekonomist.github.io/projects/offshoots/</guid>
-      <description> Yamana, Kazufumi, Empirical Studies of the Digital Economy: Survey, Statistics (Japanese), Nov 2018 Yamana, Kazufumi. et al., Airbnb in Japan, The studies in economics and trade (Japanese), Mar 2018 Yamana, Kazufumi, What is the Evidence-Based Policy Making?, Finance (Japanese), Aug 2017 Kazufumi Yamana and Makoto Nirei, A quantitative study on the sharing economy, Bulletin report (Japanese), Mar 2017  Summary (Japanese) Workshop (Japanese)  Yamana, Kazufumi, Recent trends: asset pricing, Finance (Japanese), Feb 2016  </description>
+      <guid>http://nekonomist.github.io/blogs/tempus/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Talks</title>
-      <link>http://nekonomist.github.io/projects/talks/</link>
-      <pubDate>Mon, 13 Nov 2017 12:21:11 -0500</pubDate>
+      <title>Magna</title>
+      <link>http://nekonomist.github.io/blogs/magna/</link>
+      <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
       
-      <guid>http://nekonomist.github.io/projects/talks/</guid>
-      <description>Conferences 2019 AEA (Jan)
-2018 IMFSF(Nov), IPSDM(Oct), IISES (Sep), IARIW (Aug)
-2017 CAED (Sep), JEA (Sep), KLEMS (July), JSS (Mar), ASSA (Jan)
-2016 JEA (Jun), JSS (Mar)
-2015 JEA (May)
-2014 JEA (Oct), HitU (Mar)
-Others 2016 MOF (Nov), DSGEWS (Jul), JCER (Jan), KyotoU (Jan)
-2014 SWET (Aug)</description>
+      <guid>http://nekonomist.github.io/blogs/magna/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Missing Productivity Growth</title>
-      <link>http://nekonomist.github.io/blog/missing-productivity-growth/</link>
-      <pubDate>Sat, 26 May 2018 00:00:00 +0000</pubDate>
+      <title>Ipsum</title>
+      <link>http://nekonomist.github.io/blogs/ipsum/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
       
-      <guid>http://nekonomist.github.io/blog/missing-productivity-growth/</guid>
-      <description>IGM FORUM Syverson, Chad. 2017. &amp;ldquo;Challenges to Mismeasurement Explanations for the US Productivity Slowdown.&amp;rdquo; Journal of Economic Perspectives, 31 (2): 165-86. David M. Byrne &amp;amp; John G. Fernald &amp;amp; Marshall B. Reinsdorf, 2016. &amp;ldquo;Does the United States Have a Productivity Slowdown or a Measurement Problem?,&amp;rdquo; Brookings Papers on Economic Activity, Economic Studies Program, The Brookings Institution, vol. 47(1 (Spring), pages 109-182. Aghion, Philippe &amp;amp; Bergeaud, Antonin &amp;amp; Boppart, Timo &amp;amp; Klenow, Peter J.</description>
-    </item>
-    
-    <item>
-      <title>Robots and Aritificial Intelligence</title>
-      <link>http://nekonomist.github.io/blog/robots-ai/</link>
-      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://nekonomist.github.io/blog/robots-ai/</guid>
-      <description>IGM FORUM 1 IGM FORUM 2 Daron Acemoglu &amp;amp; Pascual Restrepo, 2017. &amp;ldquo;Robots and Jobs: Evidence from US Labor Markets,&amp;rdquo; NBER Working Papers 23285, National Bureau of Economic Research, Inc. Aghion, Philippe and Howitt, Peter, 1994, Growth and Unemployment, Review of Economic Studies, 61, issue 3, p. 477-494. Joseph Zeira, 1998. &amp;ldquo;Workers, Machines, and Economic Growth,&amp;rdquo; The Quarterly Journal of Economics, Oxford University Press, vol. 113(4), pages 1091-1117. David H.</description>
-    </item>
-    
-    <item>
-      <title>test</title>
-      <link>http://nekonomist.github.io/lecture/test/</link>
-      <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
-      
-      <guid>http://nekonomist.github.io/lecture/test/</guid>
-      <description>test page</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>http://nekonomist.github.io/contact/</link>
-      <pubDate>Thu, 09 Mar 2017 13:23:28 +0800</pubDate>
-      
-      <guid>http://nekonomist.github.io/contact/</guid>
-      <description>3-27-1 Rokkakubashi, Kanagawa-ku, Yokohama-shi, Kanagawa, 221-8686 JAPAN</description>
+      <guid>http://nekonomist.github.io/blogs/ipsum/</guid>
+      <description>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</description>
     </item>
     
     <item>
       <title>About</title>
       <link>http://nekonomist.github.io/about/</link>
-      <pubDate>Thu, 09 Mar 2017 13:19:25 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://nekonomist.github.io/about/</guid>
-      <description> Kazufumi Yamana
-Ph.D. (Economics)
-HERMES-IR
-Social service activities 2017.4 - Assistant professor, Kanagawa University, Faculuty of Economics
- Message from Professor (Japanese)  Visiting researcher, Policy Research Institute, Ministry of Finance, Japanese Government
-2015.4 - 2017.3 Economist, Policy Research Institute, Ministry of Finance, Japanese Government
-Research interests  Computational statistics / Machine learning Computational economics Macroeconomics Nekonomics  Languages  Python Matlab  Preference  Vim, Tab  Editor war Tabs vs Spaces   Lecture Kanagawa University  Macroeconomics (2019, 2018, 2017) Microeconomics (2019, 2018, 2017) Economic data processing (2015)  The University of Tokyo (GraSPP)  Principles of Macroeconomics (2019)  Ministry of Finance  Introduction to statistics (2019, 2018, 2017) Applied econometrics (2019, 2018) Statistics (2018, 2016) Time series econometrics (2017, 2016, 2015)  Tokyo Institute of Technology  Economics A (2016)  Chiba University  Economic statistics (2017, 2016)  </description>
+      <description> Kazufumi Yamana, Ph.D. (Economics)
+Social service activities 2017.4 -  Assistant professor, Kanagawa University, Faculuty of Economics Visiting researcher, Policy Research Institute, Ministry of Finance, Japanese Government  2015.4 - 2017.3  Economist, Policy Research Institute, Ministry of Finance, Japanese Government  Research interests  Computational statistics / Machine learning Computational economics Macroeconomics Nekonomics  Language  Python Matlab R  Preference  Vim, Tab  Editor war Tabs vs Spaces   Lecture Kanagawa University  Macroeconomics (2019, 2018, 2017) Microeconomics (2019, 2018, 2017) Economic data processing (2015)  The University of Tokyo (GraSPP)  Principles of Macroeconomics (2019)  Ministry of Finance  Introduction to statistics (2019, 2018, 2017) Applied econometrics (2019, 2018) Statistics (2018, 2016) Time series econometrics (2017, 2016, 2015)  Tokyo Institute of Technology  Economics A (2016)  Chiba University  Economic statistics (2017, 2016)  </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://nekonomist.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://nekonomist.github.io/projects/</guid>
+      <description>Products  IDEAS/PePEc Google Scholar SSRN  Published  Yamana, Kazufumi, Monte Carlo evidence on the estimation method for industry dynamics, Journal of Econometric Methods, forthcoming
+ Yamana, Kazufumi, Monte Carlo evidence on the estimation method for industry dynamics, SSRN Working Paper, 2018 Yamana, Kazufumi, Estimation Method for Dynamic Equilibrium Models of Heterogeneous Firms, SSRN Working Paper, 2015  Kazufumi Yamana and Makoto Nirei and Sanjib Sarker, Time-Varying Employment Risks, Consumption Composition, and Fiscal Policy, Economics Bulletin, Vol.</description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>http://nekonomist.github.io/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://nekonomist.github.io/talks/</guid>
+      <description> Conferences  2019  AEA (Jan)  2018  IMFSF(Nov), IPSDM(Oct), IISES (Sep), IARIW (Aug)  2017  CAED (Sep), JEA (Sep), KLEMS (July), JSS (Mar), ASSA (Jan)  2016  JEA (Jun), JSS (Mar)  2015  JEA (May)  2014  JEA (Oct), HitU (Mar)   Others  2016  MOF (Nov), DSGEWS (Jul), JCER (Jan), KyotoU (Jan)  2014  SWET (Aug)   </description>
     </item>
     
   </channel>
